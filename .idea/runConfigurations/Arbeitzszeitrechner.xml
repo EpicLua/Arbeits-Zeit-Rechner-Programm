@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Arbeitzszeitrechner" type="JarApplication" singleton="false">
+    <option name="WORKING_DIRECTORY" value="H:\Arbeits zeiten Rechner" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-19" />
+    <module name="Arbeits zeiten Rechner" />
+    <method v="2" />
+  </configuration>
+</component>

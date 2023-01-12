@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Arbeits zeiten Rechner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Arbeits_zeiten_Rechner_jar</output-path>
+    <root id="archive" name="Arbeits zeiten Rechner.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/.idea/artifacts/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Arbeits zeiten Rechner" />
+    </root>
+  </artifact>
+</component>
